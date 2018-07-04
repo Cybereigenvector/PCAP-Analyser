@@ -6,7 +6,7 @@ import socket
 import random
 import datetime
 
-print "----------------------------------- \n PORT SCAN \n----------------------------------- \nBy Rishabh Das and Piyush Kayle(CPE 549) \n"
+print "----------------------------------- \n PORT SCAN \n----------------------------------- \nBy Rishabh Das (CPE 549) \n"
 
 print "Please keep the .pcap file in the following directory (If already coppied please ignore the message) \n"
 print os.getcwd()
